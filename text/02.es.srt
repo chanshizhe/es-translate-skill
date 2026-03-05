@@ -1,39 +1,34 @@
 1
 00:00:00,166 --> 00:00:03,033
-¡Ahhh!
+¡Ah! ¡Ah!
 
 2
 00:00:03,066 --> 00:00:05,466
-¿Cómo? ¿Cómo pasó esto?
+¿Cómo puede ser? ¿Cómo puede ser esto?
 
 3
 00:00:05,900 --> 00:00:07,866
-Falso, todo es falso
+¡Es falso! ¡Todo es falso!
 
 4
 00:00:08,000 --> 00:00:10,666
-Mamá, papá
-por favor estén bien
+¡Papá, mamá, por favor no les pase nada!
 
 5
 00:00:10,666 --> 00:00:12,166
-Afuera está el apocalipsis
+Fuera está el apocalipsis.
 
 6
 00:00:12,233 --> 00:00:14,500
-Si quieren vivir
-escúchenme
+Si quieren vivir, ¡hagan todo lo que les diga!
 
 7
 00:00:15,366 --> 00:00:19,100
-Sergio, las cuentas
-de mi vida pasada
-las pagaré una a una
+Sergio, las cuentas de la vida anterior las voy a saldar una por una.
 
 8
 00:00:19,100 --> 00:00:21,933
-Empezaré cobrando intereses
-con tu mujer
+Empezaré cobrando un poco de interés con tu chica.
 
 9
 00:00:25,800 --> 00:00:28,500
@@ -41,81 +36,76 @@ con tu mujer
 
 10
 00:00:28,533 --> 00:00:29,766
-¿De dónde sacó pan?
+¿De dónde sacó ese pan?
 
 11
 00:00:29,933 --> 00:00:31,833
-¡Qué rico! Tengo tanta hambre
+¡Huele delicioso! ¡Tengo hambre!
 
 12
 00:00:32,733 --> 00:00:34,366
-Di-Diego
+D-Diego
 
 13
 00:00:34,600 --> 00:00:37,666
-¿Puedo comprarte el pan?
+¿Puedo comprar tu pan? Te pago.
 
 14
 00:00:37,666 --> 00:00:38,766
-Cuanto sea
+Cualquier cantidad.
 
 15
 00:00:39,066 --> 00:00:41,500
-El dinero ahora es
-papel basura
+El dinero ahora es papel mojado.
 
 16
 00:00:51,466 --> 00:00:53,966
-Maldito, ¿qué mirada es esa?
+¡Hijo de puta, qué mirada es esa!
 
 17
 00:00:54,033 --> 00:00:55,700
-No voy a inclinarme ante él
+¡No me voy a humillar delante de él!
 
 18
 00:00:56,633 --> 00:00:57,833
-¿Tienes hambre?
+¿Quieres comer?
 
 19
 00:01:00,833 --> 00:01:05,000
-Tengo hambre
-por favor dame
+¡Sí, quiero! Por favor, dámelo.
 
 20
 00:01:05,433 --> 00:01:08,666
-Lealtad de María +10
+Lealtad de objetivo María López +10
 
 21
 00:01:08,766 --> 00:01:10,466
-Nivel: Neutral
-Obtuviste 10 pts
+Nivel actual: Plácido
 
 22
 00:01:10,466 --> 00:01:11,933
-Obtuviste 10 pts
+Obtuviste 10 puntos
 
 23
 00:01:12,466 --> 00:01:13,266
-Hmph
+¡Jajaja!
 
 24
 00:01:29,200 --> 00:01:32,533
-Lealtad de María +20
+Lealtad de objetivo María López +20
 
 25
 00:01:32,633 --> 00:01:36,233
-Nivel: Amistoso
-Obtuviste 20 pts
+Nivel actual: Amistoso. Obtuviste 20 puntos
 
 26
 00:01:36,566 --> 00:01:39,033
-Come, recuerda esta sensación
+Come y recuerda esta sensación.
 
 27
 00:01:39,200 --> 00:01:40,200
-En este apocalipsis
+En este apocalipsis,
 
 28
 00:01:40,200 --> 00:01:42,433
-Solo yo puedo llenarte
-el estómago
+solo yo puedo mantenerte satisfecha.
