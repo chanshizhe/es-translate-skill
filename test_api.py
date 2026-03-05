@@ -186,6 +186,10 @@ def test_deepseek_r1_chat():
     """测试 deepseek-r1:671b-64k 模型聊天功能"""
     return test_model_chat("deepseek-r1:671b-64k")
 
+def test_qwen_chat():
+    """测试 qwen3:235b 模型聊天功能"""
+    return test_model_chat("qwen3:235b")
+
 
 if __name__ == "__main__":
     print("🔧 API 测试工具")
@@ -207,6 +211,10 @@ if __name__ == "__main__":
     print("\n【测试 4/4】测试 deepseek-r1:671b-64k 模型")
     success4 = test_deepseek_r1_chat()
 
+    # 测试 5: qwen3:235b 聊天
+    print("\n【测试 5/4】测试 qwen3:235b 模型")
+    success5 = test_qwen_chat()
+
     # 总结
     print("\n" + "=" * 50)
     print("📋 测试总结")
@@ -215,6 +223,7 @@ if __name__ == "__main__":
     print(f"qwen3.5 聊天: {'✅ 通过' if success2 else '❌ 失败'}")
     print(f"gpt-oss-120b 聊天: {'✅ 通过' if success3 else '❌ 失败'}")
     print(f"deepseek-r1 聊天: {'✅ 通过' if success4 else '❌ 失败'}")
+    print(f"qwen3:235b 聊天: {'✅ 通过' if success5 else '❌ 失败'}")
 
-    all_success = success1 and success2 and success3 and success4
+    all_success = success1 and success2 and success3 and success4 and success5
     exit(0 if all_success else 1)
