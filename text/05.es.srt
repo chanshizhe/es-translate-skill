@@ -16,7 +16,8 @@ Apenas tengo 20 años
 
 5
 00:00:07,500 --> 00:00:09,266
-¿Cómo puedo morir en un lugar así?
+¿Cómo puedo morir en un
+lugar así?
 
 6
 00:00:09,700 --> 00:00:11,133
@@ -24,7 +25,8 @@ Recuerden esta sensación
 
 7
 00:00:11,133 --> 00:00:13,733
-Recuerden quién es su única esperanza
+Recuerden quién es su única
+esperanza
 
 8
 00:00:15,666 --> 00:00:17,466
@@ -52,11 +54,13 @@ Lo huelo
 
 14
 00:00:42,600 --> 00:00:46,833
-Las 3 comparten recursos avanzados. Lealtad de María: 70
+Las 3 comparten recursos
+avanzados. Lealtad de María: 70
 
 15
 00:00:46,833 --> 00:00:50,300
-Nivel aumentado a Cercano. Recompensa: Hot Pot instantáneo x2
+Nivel aumentado a Cercano
+Recompensa: Hot Pot x2
 
 16
 00:00:50,300 --> 00:00:51,400
@@ -96,7 +100,8 @@ María, espera
 
 25
 00:01:15,100 --> 00:01:17,233
-Debe estar siendo amenazada por ese animal
+Debe estar siendo amenazada
+por ese animal
 
 26
 00:01:17,233 --> 00:01:18,966
@@ -112,4 +117,5 @@ Ya se desmoronó
 
 29
 00:01:21,466 --> 00:01:25,033
-No te apresures, tu desesperación apenas comienza
+No te apresures
+tu desesperación apenas comienza

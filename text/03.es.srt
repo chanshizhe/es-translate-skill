@@ -12,7 +12,8 @@ Cualquier cosa serviría
 
 4
 00:00:05,766 --> 00:00:07,766
-Qué bonito ver a una belleza comer
+Qué bonito ver a una
+belleza comer
 
 5
 00:00:08,266 --> 00:00:10,433
@@ -44,7 +45,8 @@ No, por favor
 
 12
 00:00:20,966 --> 00:00:22,900
-Sergio está en el edificio de enfrente
+Sergio está en el edificio
+de enfrente
 
 13
 00:00:22,900 --> 00:00:23,600
@@ -60,7 +62,8 @@ Voy a rescatarte ahora mismo
 
 16
 00:00:32,933 --> 00:00:35,533
-¿Qué te hizo ese desgraciado de Diego?
+¿Qué te hizo ese desgraciado
+de Diego?
 
 17
 00:00:35,600 --> 00:00:37,733
@@ -84,11 +87,13 @@ Lealtad +15
 
 22
 00:00:51,566 --> 00:00:54,400
-Nivel actual: Confianza. Recompensa del sistema
+Nivel actual: Confianza
+Recompensa del sistema
 
 23
 00:00:54,500 --> 00:00:57,733
-Panel personal desbloqueado. Agua purificada x2
+Panel personal desbloqueado
+Agua purificada x2
 
 24
 00:00:57,733 --> 00:01:01,200
@@ -96,7 +101,8 @@ Panel personal desbloqueado. Agua purificada x2
 
 25
 00:01:01,266 --> 00:01:04,466
-¡Los voy a destripar a ustedes dos, malditos!
+¡Los voy a destripar a ustedes
+dos, malditos!
 
 26
 00:01:04,466 --> 00:01:07,066
@@ -128,4 +134,5 @@ No tengo cara para ver a nadie
 
 33
 00:01:23,366 --> 00:01:29,200
-Pero ¿por qué a su lado me siento un poco segura?
+Pero ¿por qué a su lado
+me siento un poco segura?
